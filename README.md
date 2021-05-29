@@ -13,4 +13,4 @@ which is also where  I currently live.
 -   **Stack**: Javascript - Node.Js - Bootstrap - SQL - Express
 -   **University**: Attending  the 3rd Semester Studying  IT  at Universidade do Distrito Federal.
 ## 📫 How to reach me
-<a src="https://www.linkedin.com/in/yan-tenorio-20aa951b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a>tenorioyan@gmail.com</a>
