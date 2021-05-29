@@ -1,10 +1,10 @@
 #  Hi there 👋
 ## Public Information
 
-My name is Yan Tenório.
-I grew up in Brasília, DF,
+-My name is Yan Tenório.
+-I grew up in Brasília, DF,
 which is also where  I currently live.
-💻I’m currently learning backend with **MYSQL**, **PHP**;
+-💻I’m currently learning backend with **MYSQL**, **PHP**;
 
 ## 📖Detailed information
 -   **Name**: Yan Tenório
