@@ -1,16 +1,16 @@
-### Hi there 👋
+#  Hi there 👋
+## Public Information
 
-<!--
-**yantenorio/yantenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yan Tenório.
+I grew up in Brasília, DF,
+which is also where  I currently live.
+💻I’m currently learning backend with **MYSQl**, **Express** e **Node.js**;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖Detailed information
+-   **Name**: Yan Tenório
+-   **Age**: 18
+-   **Living in**: Brasília, Brazil
+-   **Stack**: Javascript - Node.Js - Bootstrap - SQL - Express
+-   **University**: Attending  the 3rd Semester Studying  IT  at Universidade do Distrito Federal.
+## 📫 How to reach me
+<a src="https://www.linkedin.com/in/yan-tenorio-20aa951b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
