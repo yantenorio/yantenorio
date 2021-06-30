@@ -4,13 +4,13 @@
 My name is Yan Tenório.    
 I grew up in Brasília, DF,
 which is also where  I currently live.  
-💻I’m currently learning backend with **MYSQL**, **PHP**;
+💻I’m currently learning backend with **MYSQL**, **Node.Js**;
 
 ## 📖Detailed information
 -   **Name**: Yan Tenório
 -   **Age**: 18
 -   **Living in**: Brasília, Brazil
--   **Stack**: PHP - Bootstrap - SQL 
+-   **Stack**: Javascript - Bootstrap - SQL - Node.Js
 -   **University**: Attending  the 3rd Semester Studying  IT  at Universidade do Distrito Federal.
 ## 📫 How to reach me
 <a>**E-mail**: tenorioyan@gmail.com</a>
