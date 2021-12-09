@@ -12,7 +12,7 @@ which is also where  I currently live.
 -   **Living in**: Brasília, Brazil
 -   **University**: Attending  the 4th Semester Studying  IT  at Universidade do Distrito Federal.
 <h2>Stacks</h2>
-  <ul style="display:inline">
+  <ul>
   <li><a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a></li>
   <li><a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a></li>
   <li><a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a></li>
