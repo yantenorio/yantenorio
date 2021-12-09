@@ -10,7 +10,7 @@ which is also where  I currently live.
 -   **Name**: Yan Tenório
 -   **Age**: 18
 -   **Living in**: Brasília, Brazil
--   **Stack**: **Vue** - **Node** - **Javascript** - **SQL**
+-   **Stack**: **Vue** - **Node** - <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> - **SQL**
 -   **University**: Attending  the 4th Semester Studying  IT  at Universidade do Distrito Federal.
 ## 📫 How to reach me
 <a>**E-mail**: tenorioyan@gmail.com</a>
