@@ -19,5 +19,5 @@ which is also where  I currently live.
   <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <h2>📫 How to reach me</h2>
 <a>tenorioyan@gmail.com</a>
-<a href="https://www.linkedin.com/in/yan-tenorio-20aa951b8/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/yan-tenorio-20aa951b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
