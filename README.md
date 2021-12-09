@@ -17,4 +17,5 @@ which is also where  I currently live.
   <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 ## 📫 How to reach me
 <a>**E-mail**: tenorioyan@gmail.com</a>
-<a src="linkedin.com/in/yan-tenorio-20aa951b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a>**LinkedIn**:linkedin.com/in/yan-tenorio-20aa951b8/</a>
+
