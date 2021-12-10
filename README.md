@@ -6,7 +6,7 @@ I grew up in Brasília-DF,
 which is also where  I currently live.  
 💻I’m currently learning fullstack with **Vue**, **Node** , **Javascript**, **SQL**;
 
-## 📖Detailed information
+## 📖Detailed Information
 -   **Name**: Yan Tenório
 -   **Age**: 18
 -   **Living in**: Brasília, Brazil
