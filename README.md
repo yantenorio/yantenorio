@@ -4,7 +4,7 @@
 My name is Yan Tenório.    
 I grew up in Brasília-DF,
 which is also where  I currently live.  
-💻I’m currently learning fullstack with **Vue**, **Node** , **Javascript**, **SQL**;
+💻I’m currently learning fullstack with **ReactJS**, **NodeJS** , **Python**, **SQL**;
 
 ## 📖Detailed Information
 -   **Name**: Yan Tenório
