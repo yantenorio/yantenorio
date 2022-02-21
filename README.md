@@ -10,7 +10,7 @@ which is also where  I currently live.
 -   **Name**: Yan Tenório
 -   **Age**: 19
 -   **Living in**: Brasília, Brazil
--   **University**: Attending  the 4th Semester Studying  IT  at Universidade do Distrito Federal.
+-   **University**: Gradueted in Analysis and Systems Development at Universidade do Distrito Federal.
 <h2>Stacks</h2>
   <tr>
     <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="left"></td>
